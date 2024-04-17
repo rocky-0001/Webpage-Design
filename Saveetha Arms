@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Background Image</title>
+</head>
+<body background="C:\Users\Rakesh\Desktop\edubg.jpg" style="background-repeat: no-repeat; background-size: 100%;"> 
+<h1 style="color: dodgerblue; margin-left: 710px; margin-top: 230px">Sign in</h1>
+
+	<div><img src="C:\Users\Rakesh\Desktop\logo.png"; style="margin-left: 680px; margin-top: -2000px;margin-bottom: 120px;"></div>
+
+<div style="background-color: lightgrey; width: 200px; height: 230px; padding-top: 160px; padding-right: 190px; opacity: 50%; margin-left: 570px;margin-top: -210px"></div>
+<div style="background-color: lightgoldenrodyellow; width: 330px; height: 40px; margin-left: 600px; margin-top: -200px;">Username</div>
+<div style="background-color: lightgoldenrodyellow; width: 330px; height: 40px; margin-left: 600px; margin-top: 20px;">Password</div>
+<div style="background-color: lightseagreen; width: 80px; height: 40px; margin-left: 600px; margin-top: 20px;">Login</div>
+</body>
+</html>
