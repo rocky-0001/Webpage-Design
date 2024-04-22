@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Tech</title>
+
+</head>
+<body background="C:\Users\Rakesh\Downloads\Sales Product Website\Home.png" style="background-repeat: no-repeat; background-size: 100%;"> 
+<h1 style="color: dodgerblue; margin-left: 50px; margin-top: 130px">Contact Us</h1>
+<h2 style="color: black; font-size: 18px; margin-left: 950px; margin-top: 10px">Main Office</h2>
+<h3 style="color: black;  font-size: 18px; margin-left: 1250px; margin-top: -35px">Social Media</h3>
+<h3 style="color: black;  font-size: 16px; margin-left: 953px; margin-top: 35px">R Street</h3>
+<h3 style="color: black;  font-size: 16px; margin-left: 953px; margin-top: 35px">Chennai</h3>
+<h3 style="color: black;  font-size: 16px; margin-left: 953px; margin-top: 35px">Tamil Nadu</h3>
+<h3 style="color: black;  font-size: 16px; margin-left: 953px; margin-top: 35px">India</h3>
+<h4 style="color: black;  font-size: 16px; margin-left: 953px; margin-top: 35px">9444719059</h4>
+<h5 style="color: black;  font-size: 16px; margin-left: 1250px; margin-top: -250px">Facebook</h5>
+<h6 style="color: black;  font-size: 16px; margin-left: 1250px; margin-top: -5px">Instagram</h6>
+<h7 style="color: black;  font-size: 16px; margin-left: 1250px; margin-top: -5px">Twitter</h7>
+
+
+</body>
+</html>
