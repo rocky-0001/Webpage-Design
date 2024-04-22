@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="C:\Users\Rakesh\Desktop\Webpage\Website.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Tech</title>
+
+</head>
+
+<body > 
+
+	<div class="column4">
+			<img src="C:\Users\Rakesh\Pictures\Screenshots\Screenshot 2024-04-22 224530.png" style=" margin-left: 1000px; margin-top: 300px; margin-bottom:-600px ;border-top-right-radius: 100px; width: 300px; height: 300px;">
+			<div class="column4">
+			<h2>The Westmire A56 Headset</h2>
+</div>
+
+<div class="column3">
+			<img src="C:\Users\Rakesh\Pictures\Screenshots\Screenshot 2024-04-22 213102.png" style=" margin-left: 1000px; margin-top: 300px; margin-bottom:-600px ;border-top-right-radius: 100px; width: 300px; height: 300px;">
+			
+		</div>
+	
+		<div class="column3">
+			<h2>All-new technology</h2>
+			<p style="font-size: 18px; margin-bottom: 100px;">News write-ups offer a great way to let clients <br>know about new products and services, events, <br>awards, and more. News write-ups offer a great <br>way to let clients know about new products and <br>services, events, awards, and more.
+			 </p>
+		</div>
+
+
+
+
+	<h2 style="text-align: center;">Shop by category</h2>
+
+
+	<div class="row2">
+
+		<div class="column2">
+			<img src="C:\Users\Rakesh\Desktop\Webpage\Sales Product Website (1).png">
+
+		</div>
+		<div class="column2">
+			<img src="C:\Users\Rakesh\Desktop\Webpage\Sales Product Website.png">
+
+		</div>
+		<div class="column2">
+			<img src="C:\Users\Rakesh\Desktop\Webpage\Sales Product Website (2).png">
+
+		</div>
+
+	</div>
+
+
+	<div class="row" style="background: linear-gradient(to right, rgb(115,231,230,255), #59eae3, #ffefe5); ">
+		<div class="column1">
+			<h2>Expert Support</h2>
+			<p style="font-size: 18px;">Faulty phone battery? Slow laptop? We have<br>
+				in-house tech experts who can assist you.<br>
+
+			Visit us in stores! </p>
+			<h3>Our locations</h3>
+			<p style="font-size: 18px">123 Anywhere St.<br>
+				Any City, State, Any Country<br>
+			(123) 456 7890</p>
+
+		</div>
+		<div class="column1">
+			<img src="C:\Users\Rakesh\Desktop\Webpage\p1.png" style=" margin-right: -400px; border-top-right-radius: 80px;">
+			
+		</div>
+		<div class="column1">
+			
+		</div>
+	</div>
+
+
+	<div class="row">
+		<div class="column">
+			<h2>Connect with us</h2>
+		</div>
+		<div class="column">
+			<h4>Main Office</h4>
+			<p>123 Anywhere St.<br>
+				Chennai, Tamil Nadu<br>
+				India 
+			9444719059 </p>	
+		</div>
+		<div class="column">
+			<h4>Social Media</h4>
+			<p>Instagram<br>
+				Facebook<br>
+			Twitter </p>	
+		</div>
+	</div>
+
+	
+</body>
+</html>
