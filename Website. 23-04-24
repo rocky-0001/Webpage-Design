@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="s1.css">
+</head>
+<body style="background: linear-gradient(to right, rgb(115,231,230,255), #59eae3, #ffefe5)">
+	<div class="row">
+		<div class="col" style="margin: 100px;">
+			<h1 style="font-size: 100px;">The Westmire A56 Headset</h1>
+			<button class="custom-button"> Shop all</button>
+			<button class="custom-button">Buy now</button>
+		</div>
+		<div class="col">
+			<img src="C:\Users\Rakesh\Desktop\Webpage\headst.png">
+		</div>
+	</div>
+	<div class="row">
+		<div class="col" style="">
+			<h2 style="font-size:30px;">All-new technology</h2>
+
+			<h3 style="font-size:18px;">News write-ups offer a great way to let clients<br>know about new products and services, events,<br> awards, and more. News write-ups offer a great<br> way to let clients know about new products and<br> services, events, awards, and more.</h3>
+
+		</div>
+		<div class="col">
+			<img src="C:\Users\Rakesh\Desktop\Webpage\Screenshot 2024-04-22 213102.png" style=" border-top-right-radius: 100px;width: 350px; height: 350px; margin-left: 100px;">
+		</div>
+
+		></div>
+
+
+		<h2 style="text-align: center;">Shop by category</h2>
+
+
+		<div class="row">
+			<div class="col">
+				<img src="C:\Users\Rakesh\Desktop\Webpage\Sales Product Website (1).png">
+
+			</div>
+			<div class="col">
+				<img src="C:\Users\Rakesh\Desktop\Webpage\Sales Product Website.png">
+
+			</div>
+			<div class="col">
+				<img src="C:\Users\Rakesh\Desktop\Webpage\Sales Product Website (2).png">
+			</div>
+
+
+		</div>
+		<button class="custom-button"; style="text-align: center; margin-left: 725px;"> View All</button>
+		<div class="row">
+			<div class="col" style="">
+				<h2 style="font-size:30px;">Expert Support</h2>
+				<h3>Faulty phone battery? Slow laptop? We have<br>
+					in-house tech experts who can assist you.<br>
+
+				Visit us in stores!</h3>
+				<h3 style="font-size:20px;"
+				>our locations</h3>
+				<h3>123 Anywhere St.<br>
+					Any City, State, Any Country<br>
+					(123) 456 7890<br>
+					<br>
+					123 Anywhere St.<br>
+					Any City, State, Any Country<br>
+				(123) 456 7890</h3>
+			</div>
+			<div class="col">
+				<a href="https://techtitanstechie.blogspot.com/"><img src="C:\Users\Rakesh\Desktop\Webpage\p1.png" style=" border-top-right-radius: 100px;width: 350px; height: 350px; margin-left: 100px;">
+				
+			</div>
+			<br></br>
+
+
+
+		</div>
+		<div class="row" style="margin-top: ;">
+			<div class="col">
+				<h2>Connect with us</h2>
+			</div>
+			<div class="col">
+				<h4>Main Office</h4>
+				<p>123 Anywhere St.<br>
+					Chennai, Tamil Nadu<br>
+					India <br>
+				9342881182 </p>	
+			</div>
+			<div class="col">
+				<h4>Social Media</h4>
+				<p>Instagram<br>
+					Facebook<br>
+				Twitter </p>	
+			</div>
+		</body>
+		</html>
