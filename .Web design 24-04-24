@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="s1.css">
+</head>
+<body style="background: linear-gradient(to right, rgb(115,231,230,255), #59eae3, #ffefe5)">
+	<div class="row">
+		<div class="col" style="margin: 100px;">
+			<h1 style="font-size: 100px;">The Westmire A56 Headset</h1>
+			<button class="custom-button"> <a href="https://www.flipkart.com/audio-video/headset/headphones/pr?sid=0pm,fcn,gc3&p[]=facets.connectivity%255B%255D%3DBluetooth&otracker=categorytree" style="text-decoration: none;"> Shop all </a></button>
+			<button class="custom-button"> <a href="https://www.flipkart.com/sony-wh1000xm4-sm-bluetooth-headset/p/itm323a5fe1f842f?pid=ACCGCVGXYWHPQJGU&lid=LSTACCGCVGXYWHPQJGUUBYCVK&marketplace=FLIPKART&store=0pm%2Ffcn%2Fgc3&srno=b_1_6&otracker=browse&fm=organic&iid=0b58215a-4aec-4260-a66a-af85af78915c.ACCGCVGXYWHPQJGU.SEARCH&ppt=browse&ppn=browse&ssid=f899a71egg0000001713946809056" style="text-decoration: none;"> Buy now </a></button>
+		</div>
+		<div class="col">
+			<img src="C:\Users\Rakesh\Desktop\Webpage\headst.png">
+		</div>
+	</div>
+	<div class="row">
+		<div class="col" style="">
+			<h2 style="font-size:30px;">All-new technology</h2>
+
+			<h3 style="font-size:18px;">News write-ups offer a great way to let clients<br>know about new products and services, events,<br> awards, and more. News write-ups offer a great<br> way to let clients know about new products and<br> services, events, awards, and more.</h3>
+
+		</div>
+		<div class="col">
+			<a href="https://techtitanstechie.blogspot.com/2024/03/samsung-galaxy-z-fold-5.html"><img src="C:\Users\Rakesh\Desktop\Webpage\Screenshot 2024-04-22 213102.png" style=" border-top-right-radius: 100px;width: 350px; height: 350px; margin-left: 100px;"></a>
+		</div>
+
+		></div>
+<br>
+
+		<h2 style="text-align: center;">Shop by category</h2><br>
+
+
+		<div class="row">
+			<div class="col">
+				<a href="https://techtitanstechie.blogspot.com/2024/03/oneplus-open-tab.html"><img src="C:\Users\Rakesh\Desktop\Webpage\Sales Product Website (1).png"></a>
+
+			</div>
+			<div class="col">
+				<a href="https://techtitanstechie.blogspot.com/2024/03/macbook-pro-14-inch.html"><img src="C:\Users\Rakesh\Desktop\Webpage\Sales Product Website.png"></a>
+
+			</div>
+			<div class="col">
+				<a href="https://techtitanstechie.blogspot.com/2024/03/sony-playstation-ps5.html"><img src="C:\Users\Rakesh\Desktop\Webpage\Sales Product Website (2).png"></a>
+			</div>
+
+
+		</div>
+		<br>
+		<button class="custom-button"; style="text-align: center; margin-left: 670px;"><a href="https://techtitanstechie.blogspot.com/" style="text-decoration: none;"> View All</a></button>
+		<br>
+		<br>
+		<br>
+
+		<div class="row">
+			<div class="col" style="">
+				<h2 style="font-size:30px;">Expert Support</h2>
+				<h3>Faulty phone battery? Slow laptop? We have<br>
+					in-house tech experts who can assist you.<br>
+
+				Visit us in stores!</h3>
+				<h3 style="font-size:20px;"
+				>our locations</h3>
+				<h3>123 Anywhere St.<br>
+					Any City, State, Any Country<br>
+					(123) 456 7890<br>
+					<br>
+					123 Anywhere St.<br>
+					Any City, State, Any Country<br>
+				(123) 456 7890</h3>
+			</div>
+			<div class="col">
+				<img src="C:\Users\Rakesh\Desktop\Webpage\p1.png" style=" border-top-right-radius: 100px;width: 350px; height: 350px; margin-left: 100px;">
+				
+			</div>
+			<br></br>
+
+
+
+		</div>
+		<div class="row" style="background-color: white;text-align: center; color: black;width: 80%; padding-left: 10px; height: 150px;">
+			<div class="col">
+				<h2>Connect with us</h2>
+
+			</div>
+			<div class="col">
+				<h4>Main Office</h4>
+				<p>123 Anywhere St.<br>
+					Chennai, Tamil Nadu<br>
+					India <br>
+				9342881182 </p>	
+			</div>
+			<div class="col">
+				<h4>Social Media</h4>
+				<a href="https:https://www.instagram.com/vroomvroomp7?igsh=MTljNmNsNTE3OGl4Yg==" style="text-decoration: none; color:black;"> Instagram </a><br>
+				<a href="https://www.facebook.com/checkpoint/1501092823525282/?next=https%3A%2F%2Fwww.facebook.com%2Ftechietitans" style="text-decoration: none; color: black;"> Facebook </a><br>
+				<a href="https://twitter.com/explore" style="text-decoration: none; color: black;"> Twitter </a>	
+			</div>
+		</body>
+		</html>
